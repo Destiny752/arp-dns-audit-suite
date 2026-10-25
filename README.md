@@ -39,5 +39,5 @@ Este software ha sido desarrollado **exclusivamente con fines educativos, de inv
 
 1. **Clonar el repositorio:**
    ```bash
-git clone https://github.com/Destiny752/arp-dns-audit-suite.git
-cd arp-dns-audit-suite
+   git clone https://github.com/Destiny752/arp-dns-audit-suite.git
+   cd arp-dns-audit-suite
